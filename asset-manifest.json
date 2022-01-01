@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Student-Result-Management-React/static/css/main.0c03c29b.chunk.css",
+    "main.js": "/Student-Result-Management-React/static/js/main.60b5f314.chunk.js",
+    "main.js.map": "/Student-Result-Management-React/static/js/main.60b5f314.chunk.js.map",
+    "runtime-main.js": "/Student-Result-Management-React/static/js/runtime-main.973eebc7.js",
+    "runtime-main.js.map": "/Student-Result-Management-React/static/js/runtime-main.973eebc7.js.map",
+    "static/js/2.11558a69.chunk.js": "/Student-Result-Management-React/static/js/2.11558a69.chunk.js",
+    "static/js/2.11558a69.chunk.js.map": "/Student-Result-Management-React/static/js/2.11558a69.chunk.js.map",
+    "index.html": "/Student-Result-Management-React/index.html",
+    "static/css/main.0c03c29b.chunk.css.map": "/Student-Result-Management-React/static/css/main.0c03c29b.chunk.css.map",
+    "static/js/2.11558a69.chunk.js.LICENSE.txt": "/Student-Result-Management-React/static/js/2.11558a69.chunk.js.LICENSE.txt",
+    "static/media/gokyuzu.d09a84ba.png": "/Student-Result-Management-React/static/media/gokyuzu.d09a84ba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.973eebc7.js",
+    "static/js/2.11558a69.chunk.js",
+    "static/css/main.0c03c29b.chunk.css",
+    "static/js/main.60b5f314.chunk.js"
+  ]
+}
