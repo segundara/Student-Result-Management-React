@@ -1,0 +1,22 @@
+[
+  {
+    "displayName": "Dashboard",
+    "route": "/",
+    "icon": "bx bxs-bar-chart-alt-2"
+  },
+  {
+    "displayName": "Transcript Request",
+    "route": "/transcripts",
+    "icon": "bx bx-book-content"
+  },
+  {
+    "displayName": "Help Center",
+    "route": "/helpcenter",
+    "icon": "bx bx-help-circle"
+  },
+  {
+    "displayName": "News & Info",
+    "route": "/news",
+    "icon": "bx bx-news"
+  }
+]

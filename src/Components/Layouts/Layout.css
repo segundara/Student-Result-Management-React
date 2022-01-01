@@ -1,0 +1,9 @@
+.layoutContent {
+  padding-left: var(--sidebarWidth);
+  background-color: var(--background3);
+  min-height: 100vh;
+}
+
+.layoutContent-Main {
+  padding: 30px;
+}

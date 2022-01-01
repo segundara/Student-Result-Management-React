@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Academic staff",
+    "count": "595",
+    "icon": "bx bx-user-pin"
+  },
+  {
+    "title": "Non-academic staff",
+    "icon": "bx bx-user-pin",
+    "count": "2453"
+  },
+  {
+    "title": "Incoming students",
+    "icon": "bx bx-book-reader",
+    "count": "1232"
+  },
+  {
+    "icon": "bx bx-user-check",
+    "count": "1,711",
+    "title": "Outgoing students"
+  }
+]
