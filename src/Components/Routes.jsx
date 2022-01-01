@@ -11,9 +11,9 @@ import "../Assets/css/styles.css";
 const Routes = () => {
   return (
     <Switch>
-      <Route path="/" exact component={Dashboard} />
-      <Route path="/customers" component={Customers} />
-      <Route path="/transcripts" component={Transcripts} />
+      <Route path="/Student-Result-Management-React" exact component={Dashboard} />
+      {/* <Route path="/Student-Result-Management-React/customers" component={Customers} /> */}
+      <Route path="/Student-Result-Management-React/transcripts" component={Transcripts} />
     </Switch>
   );
 };
