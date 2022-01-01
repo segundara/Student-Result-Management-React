@@ -11,7 +11,7 @@ import "../Assets/css/styles.css";
 const Routes = () => {
   return (
     <Switch>
-      <Route path="/" exact component={Dashboard} />
+      <Route path={process.env.REACT_APP_HOMEPAGE} exact component={Dashboard} />
       <Route path="/customers" component={Customers} />
       <Route path="/transcripts" component={Transcripts} />
     </Switch>
